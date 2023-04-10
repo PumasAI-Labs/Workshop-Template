@@ -20,6 +20,12 @@ We use [Material for MkDocs](https://github.com/squidfunk/mkdocs-material)
 1. Preview the site with `mkdocs serve`
 1. Make a Pull Request
 
+## Authors
+
+- Author 1 - <email@example.com>
+- Author 2 - <email@example.com>
+- Author 3 - <email@example.com>
+
 ## License
 
 This content is licensed under [Creative Commons Attribution-ShareAlike 4.0 Internacional](http://creativecommons.org/licenses/by-sa/4.0/).
