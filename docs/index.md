@@ -25,6 +25,12 @@ Short summary about the workshop.
 If you have any suggestions or want to get in touch with our education team,
 please send an email to <training@pumas.ai>.
 
+## Authors
+
+- Author 1 - <email@example.com>
+- Author 2 - <email@example.com>
+- Author 3 - <email@example.com>
+
 ## License
 
 This content is licensed under [Creative Commons Attribution-ShareAlike 4.0 Internacional](http://creativecommons.org/licenses/by-sa/4.0/).
