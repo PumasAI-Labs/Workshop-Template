@@ -20,6 +20,19 @@ We use [Material for MkDocs](https://github.com/squidfunk/mkdocs-material)
 1. Preview the site with `mkdocs serve`
 1. Make a Pull Request
 
+## Maths
+
+You can add maths via MathJax, both using inline syntax `$\sin(x)$`, which yields $\sin(x)$, and block syntax 
+```
+$$
+e = \sum \limits_{n=0}^{\infty}{\frac{1}{n!}}
+$$
+```
+which yields
+$$
+e = \sum \limits_{n=0}^{\infty}{\frac{1}{n!}}.
+$$
+
 ## Authors
 
 - Author 1 - <email@example.com>
