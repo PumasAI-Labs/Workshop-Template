@@ -20,6 +20,11 @@ We use [Material for MkDocs](https://github.com/squidfunk/mkdocs-material)
 1. Preview the site with `mkdocs serve`
 1. Make a Pull Request
 
+## Maths
+
+This template is already [configured](https://squidfunk.github.io/mkdocs-material/reference/math/#mathjax-mkdocsyml) for MathJax to work, both [using](https://squidfunk.github.io/mkdocs-material/reference/math/?h=math#usage) inline and block syntax.
+
+
 ## Authors
 
 - Author 1 - <email@example.com>
