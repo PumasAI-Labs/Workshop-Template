@@ -22,16 +22,8 @@ We use [Material for MkDocs](https://github.com/squidfunk/mkdocs-material)
 
 ## Maths
 
-You can add maths via MathJax, both using inline syntax `$\sin(x)$`, which yields $\sin(x)$, and block syntax 
-```
-$$
-e = \sum \limits_{n=0}^{\infty}{\frac{1}{n!}}
-$$
-```
-which yields
-$$
-e = \sum \limits_{n=0}^{\infty}{\frac{1}{n!}}.
-$$
+This template is already [configured](https://squidfunk.github.io/mkdocs-material/reference/math/#mathjax-mkdocsyml) for MathJax to work, both [using](https://squidfunk.github.io/mkdocs-material/reference/math/?h=math#usage) inline and block syntax.
+
 
 ## Authors
 
